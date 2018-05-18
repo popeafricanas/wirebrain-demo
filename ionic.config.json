@@ -1,6 +1,6 @@
 {
   "name": "wirebrain-dash",
-  "app_id": "",
+  "app_id": "a8bf1f4a",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
